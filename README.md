@@ -1,2 +1,5 @@
 # scrapy_bian
-bi an网图片爬虫
+
+
+cd bian/spider
+scrapy crawl bian
