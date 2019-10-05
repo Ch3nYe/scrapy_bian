@@ -1,5 +1,5 @@
 # scrapy_bian
 
 
-cd bian/spider
+cd bian/spider  
 scrapy crawl bian
